@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/PrefectHQ/prefect-collection-registry/commit/6be8519e91835916a26eab58c54c766dd3de59f1",
       "git:hexsha": "6be8519e91835916a26eab58c54c766dd3de59f1",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
