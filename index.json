@@ -1,0 +1,11 @@
+{
+  "org": "PrefectHQ",
+  "repo": "prefect-collection-registry",
+  "versions": [
+    {
+      "commit": "6be8519e91835916a26eab58c54c766dd3de59f1",
+      "tag": "",
+      "parsed_at": "2026-11-08T02:51:47.451749+00:00"
+    }
+  ]
+}
